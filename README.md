@@ -1,6 +1,6 @@
 # About Me
 
-Experienced smart contract security researcher, specialized in securing DeFi, SocialFi, and GameFi projects. Discovered 80+ H/M vulnerabilities. Multiple top placements. Background includes close to 4 years of production experience securing and developing cloud infrastructure as a software engineer for cloud tech giant.
+Experienced smart contract security researcher, specializing in securing DeFi, SocialFi, and GameFi projects. Discovered 80+ H/M vulnerabilities with multiple top placements. Background includes nearly 4 years of production experience in securing and developing cloud infrastructure as a software engineer at a leading cloud technology company.
 
 ## Book me
 
