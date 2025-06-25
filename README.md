@@ -32,7 +32,7 @@ Check out my Sherlock profile [here](https://audits.sherlock.xyz/watson/stanchev
 | 15    | [IQ AI]()      |   Tokenized agents for DeFi      | 1M (Top 5) | [Open](https://code4rena.com/reports/2025-01-iq-ai)           | 01.2025    |
 | 14    | [Liquid Ron]()      |   Automate user staking actions and unlocks your liquidity for RON     | 1H, 2M (Top5) | [Open](https://code4rena.com/reports/2025-01-liquid-ron)           | 01.2025    |
 | 13    | [Plazza Finance](https://audits.sherlock.xyz/contests/682)      |   Bonds and Leverage on Base     | 2H, 5M | [Open](https://audits.sherlock.xyz/contests/682/report)           | 01.2025    |
-| 12    | [SecondSwap]()      |   Unlocking liquidity for illiquid assets     | 1H,1M | [Open](https://code4rena.com/reports/2024-12-secondswap)           | 12.2024    |
+| 12    | [SecondSwap]()      |   Unlocking liquidity for illiquid assets     | 1H, 1M | [Open](https://code4rena.com/reports/2024-12-secondswap)           | 12.2024    |
 | 11    | [Lambo.Win]()      |   Launchpad     | 1H | [Open](https://code4rena.com/reports/2024-12-lambowin)           | 12.2024    |
 | 10    | [Oku](https://audits.sherlock.xyz/contests/641)      |   CeFi order types to DeFi     | 1H, 1M | [Open](https://audits.sherlock.xyz/contests/641/report)           | 12.2024    |
 | 9    | [Superfluid](https://audits.sherlock.xyz/contests/648?filter=questions)      |    Money Streaming Protocol     | 1H (Top 5 🏆) | [Open](https://audits.sherlock.xyz/contests/648/report)           | 11.2024    |
